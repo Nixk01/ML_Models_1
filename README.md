@@ -5,3 +5,4 @@ Practice dataset of Cancer Detection,
 3.House Price Predictions
 4.Liver Patients 
 5.Titanic Datasets
+Also Check Folder 2 , it has all files init.
